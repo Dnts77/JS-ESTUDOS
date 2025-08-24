@@ -65,4 +65,4 @@ function isValidEmail(email){
         return false;
     }
 }
-console.log(isValidEmail("cabeca@gmail.com"));
+console.log(isValidEmail("cabeca@gmail.com"));//
